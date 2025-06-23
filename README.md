@@ -1,5 +1,10 @@
 # 2025 SynBio Challenge  
 This repository demonstrates the *in silico* directed evolution of avGFP variants using EvolvePro and coarse-grained molecular dynamics simulations with GROMACS.  
+
+## Variant sequences for submission
+Variant seqeunces for submission can be found in `data/evolution/results/final_candidates.csv`  
+
+
 ## Install
 
 ### EvolvePro
