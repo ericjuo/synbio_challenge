@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+transformers
+tokenizers
+scikit-learn
+matplotlib
+seaborn
+openpyxl 
