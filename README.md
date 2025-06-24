@@ -73,5 +73,11 @@ This directory contains trajectory data:
 
 Please refer to the `README` file in `data/md/` for detailed information on how the simulations were performed.
 
+### `Brightness_model` - Brightness prediction model
+This directory contains:  
+- `model_train_DL.py` - Scripts for training brightness prediction model  
+- `model_inference_DL.py` - Scripts for inference brightness for new candidates  
+- `models/` - model weights of the trained deep learning model  
 
+Please refer to the `README` file in `Brightness_model` for detailed information on how the brightness predictin model was trained.
 
